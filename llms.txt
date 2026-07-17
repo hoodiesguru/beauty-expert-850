@@ -1,0 +1,10 @@
+# Beauty expert 850 Hub
+> A modern financial advisors resource based in Miami, FL.
+
+## Site Index
+- [Home Page](/index.html): Portal overview for our services.
+- [About Us](/about.html): Our background and history.
+- [Contact](/contact.html): Office locations and communication form.
+## Publications
+- [The Influence of Core Web Vitals on Today's UX](/the-influence-of-core-web-vitals-on-today-s-ux.html)
+- [Geotargeting Strategies for Distributed Networks](/geotargeting-strategies-for-distributed-networks.html)
